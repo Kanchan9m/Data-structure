@@ -1,14 +1,15 @@
-# stack using list
-# stack = []
-# stack.append(5)
-# stack.append(7)
-# stack.append(9)
-# stack.append(2)
-# stack.append(10)
-# print(stack)
-# print(stack.pop())
-# print(stack.pop())
-# print(stack)
+#stack using list
+
+stack = []
+stack.append(5)
+stack.append(7)
+stack.append(9)
+stack.append(2)
+stack.append(10)
+print(stack)
+print(stack.pop())
+print(stack.pop())
+print(stack)
 
 #stack using linked list
 
